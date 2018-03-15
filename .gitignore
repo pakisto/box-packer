@@ -1,0 +1,6 @@
+
+.vagrant/
+test/
+src/*.box
+src/packer_cache
+src/output-hyperv-iso
